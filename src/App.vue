@@ -4,10 +4,11 @@
 <template>
   <h1>VueJs - training Justine Groiset</h1>
 
+  
   <main>
     <section id="mainPart">
-
-      <p>Test</p>
+    
+      <p>I Love you :3</p>
 
     </section>
     <section id="secondPart">
